@@ -2,6 +2,10 @@
 
 To unlock sales insights that are not visible before for the sales team for decision support & automate them to reduce manual time spent in data gathering.
 
+# View Dashboard
+Click Here: https://us-east-1.online.tableau.com/#/site/adityadesai2001-91ea19a471/workbooks/2234342?:origin=card_share_link
+
+
 # Stakeholders
 
 - Sales Director
